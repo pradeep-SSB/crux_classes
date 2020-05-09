@@ -11,7 +11,7 @@ public class Array2D_1_WAVE_pattern
     public static Scanner in;
     
     static {
-        Array2D_1_WAVE_pattern.in = new Scanner(System.in);
+        Array2D_1_WAVE_pattern.in = new Scanner(System.in); 
     }
     
     public static void main(final String[] args) {
